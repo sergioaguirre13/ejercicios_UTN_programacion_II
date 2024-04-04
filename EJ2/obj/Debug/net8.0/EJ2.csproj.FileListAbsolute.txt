@@ -1,0 +1,14 @@
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\bin\Debug\net8.0\EJ2.exe
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\bin\Debug\net8.0\EJ2.deps.json
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\bin\Debug\net8.0\EJ2.runtimeconfig.json
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\bin\Debug\net8.0\EJ2.dll
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\bin\Debug\net8.0\EJ2.pdb
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.AssemblyInfoInputs.cache
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.AssemblyInfo.cs
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.dll
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\refint\EJ2.dll
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.pdb
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\EJ2.genruntimeconfig.cache
+C:\Users\Sergio\source\repos\UTN_Ejercicios\EJ2\obj\Debug\net8.0\ref\EJ2.dll
