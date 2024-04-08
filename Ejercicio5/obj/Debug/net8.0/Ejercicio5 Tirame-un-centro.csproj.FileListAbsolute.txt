@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\bin\Debug\net8.0\Ejercicio5 Tirame-un-centro.exe
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\bin\Debug\net8.0\Ejercicio5 Tirame-un-centro.deps.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\bin\Debug\net8.0\Ejercicio5 Tirame-un-centro.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\bin\Debug\net8.0\Ejercicio5 Tirame-un-centro.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\bin\Debug\net8.0\Ejercicio5 Tirame-un-centro.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\refint\Ejercicio5 Tirame-un-centro.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\Ejercicio5 Tirame-un-centro.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio5\obj\Debug\net8.0\ref\Ejercicio5 Tirame-un-centro.dll

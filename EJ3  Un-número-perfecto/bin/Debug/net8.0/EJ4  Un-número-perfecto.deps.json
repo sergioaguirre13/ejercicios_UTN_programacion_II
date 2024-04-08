@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EJ4  Un-número-perfecto/1.0.0": {
+        "runtime": {
+          "EJ4  Un-número-perfecto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EJ4  Un-número-perfecto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

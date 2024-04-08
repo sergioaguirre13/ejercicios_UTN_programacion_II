@@ -1,0 +1,15 @@
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\bin\Debug\net8.0\EJ4  Un-número-perfecto.exe
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\bin\Debug\net8.0\EJ4  Un-número-perfecto.deps.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\bin\Debug\net8.0\EJ4  Un-número-perfecto.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\bin\Debug\net8.0\EJ4  Un-número-perfecto.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\bin\Debug\net8.0\EJ4  Un-número-perfecto.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\refint\EJ4  Un-número-perfecto.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\EJ4  Un-número-perfecto.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\EJ3  Un-número-perfecto\obj\Debug\net8.0\ref\EJ4  Un-número-perfecto.dll

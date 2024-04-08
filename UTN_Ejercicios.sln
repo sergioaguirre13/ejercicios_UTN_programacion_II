@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ1 maximo-minimo-promedio", "EJ1\EJ1 maximo-minimo-promedio.csproj", "{158990E2-A22F-4AA4-AE59-93A8DFBC19D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EJ1 maximo-minimo-promedio", "EJ1\EJ1 maximo-minimo-promedio.csproj", "{158990E2-A22F-4AA4-AE59-93A8DFBC19D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ2 error-al-cubo", "EJ2\EJ2 error-al-cubo.csproj", "{4FAC1AF2-0168-4255-8FA2-74664A418E86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EJ2 error-al-cubo", "EJ2\EJ2 error-al-cubo.csproj", "{4FAC1AF2-0168-4255-8FA2-74664A418E86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ3 Los primos", "EJ3 Los primos\EJ3 Los primos.csproj", "{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EJ3 Los primos", "EJ3 Los primos\EJ3 Los primos.csproj", "{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduccion a .NET y C#", "Introduccion a .NET y C#", "{353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ4  Un-número-perfecto", "EJ3  Un-número-perfecto\EJ4  Un-número-perfecto.csproj", "{93873F63-898B-4067-9F93-A8E3DE1E78CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5 Tirame-un-centro", "Ejercicio5\Ejercicio5 Tirame-un-centro.csproj", "{EBC1178F-66B0-4F2B-9582-9351FC4466E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +33,24 @@ Global
 		{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93873F63-898B-4067-9F93-A8E3DE1E78CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93873F63-898B-4067-9F93-A8E3DE1E78CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93873F63-898B-4067-9F93-A8E3DE1E78CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93873F63-898B-4067-9F93-A8E3DE1E78CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{158990E2-A22F-4AA4-AE59-93A8DFBC19D3} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
+		{4FAC1AF2-0168-4255-8FA2-74664A418E86} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
+		{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
+		{93873F63-898B-4067-9F93-A8E3DE1E78CB} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
+		{EBC1178F-66B0-4F2B-9582-9351FC4466E5} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16418D38-D6FE-4A87-B8C0-63637F358E57}
