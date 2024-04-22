@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EJ3 Los primos", "EJ3 Los p
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Introduccion a .NET y C#", "Introduccion a .NET y C#", "{353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ4  Un-número-perfecto", "EJ3  Un-número-perfecto\EJ4  Un-número-perfecto.csproj", "{93873F63-898B-4067-9F93-A8E3DE1E78CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EJ4  Un-número-perfecto", "EJ3  Un-número-perfecto\EJ4  Un-número-perfecto.csproj", "{93873F63-898B-4067-9F93-A8E3DE1E78CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5 Tirame-un-centro", "Ejercicio5\Ejercicio5 Tirame-un-centro.csproj", "{EBC1178F-66B0-4F2B-9582-9351FC4466E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio5 Tirame-un-centro", "Ejercicio5\Ejercicio5 Tirame-un-centro.csproj", "{EBC1178F-66B0-4F2B-9582-9351FC4466E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases y Metodos estaticos", "Clases y Metodos estaticos", "{73EF33E3-DB8D-4BCF-AF6D-F95E2AAB2C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio I01 - Validador de rangos", "Ejercicio I01 - Validador de rangos\Ejercicio I01 - Validador de rangos.csproj", "{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +45,10 @@ Global
 		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBC1178F-66B0-4F2B-9582-9351FC4466E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +59,7 @@ Global
 		{8EA40DE1-44C7-4DEE-9E4D-54323E40C43C} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
 		{93873F63-898B-4067-9F93-A8E3DE1E78CB} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
 		{EBC1178F-66B0-4F2B-9582-9351FC4466E5} = {353FDC1C-8DD0-4400-83B7-6E2C0DE80BBA}
+		{C09EF94A-4E0C-400D-9061-3EB1ACE5BE46} = {73EF33E3-DB8D-4BCF-AF6D-F95E2AAB2C55}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {16418D38-D6FE-4A87-B8C0-63637F358E57}
