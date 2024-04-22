@@ -1,0 +1,19 @@
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\Ejercicio I02 - Desea continuar.exe
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\Ejercicio I02 - Desea continuar.deps.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\Ejercicio I02 - Desea continuar.runtimeconfig.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\LibreriaEjercicio2.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\bin\Debug\net8.0\LibreriaEjercicio2.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercici.8452B612.Up2Date
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\refint\Ejercicio I02 - Desea continuar.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\Ejercicio I02 - Desea continuar.genruntimeconfig.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\Ejercicio I02 - Desea continuar\obj\Debug\net8.0\ref\Ejercicio I02 - Desea continuar.dll

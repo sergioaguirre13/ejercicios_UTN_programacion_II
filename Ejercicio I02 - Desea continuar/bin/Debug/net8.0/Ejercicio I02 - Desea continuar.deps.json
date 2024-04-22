@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio I02 - Desea continuar/1.0.0": {
+        "dependencies": {
+          "LibreriaEjercicio2": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio I02 - Desea continuar.dll": {}
+        }
+      },
+      "LibreriaEjercicio2/1.0.0": {
+        "runtime": {
+          "LibreriaEjercicio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio I02 - Desea continuar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaEjercicio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
