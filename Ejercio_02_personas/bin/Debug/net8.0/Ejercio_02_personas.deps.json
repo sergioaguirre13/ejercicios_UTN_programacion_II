@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercio_02_personas/1.0.0": {
+        "dependencies": {
+          "LibreriaDePersonas": "1.0.0"
+        },
+        "runtime": {
+          "Ejercio_02_personas.dll": {}
+        }
+      },
+      "LibreriaDePersonas/1.0.0": {
+        "runtime": {
+          "LibreriaDePersonas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercio_02_personas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDePersonas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

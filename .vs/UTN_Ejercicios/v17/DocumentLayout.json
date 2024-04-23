@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{313B5A01-20F6-4A73-BFD6-50786D9FB9C5}|Ejercicio I02 - Desea continuar\\Ejercicio I02 - Desea continuar.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\ejercicio i02 - desea continuar\\ejercicio 02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{313B5A01-20F6-4A73-BFD6-50786D9FB9C5}|Ejercicio I02 - Desea continuar\\Ejercicio I02 - Desea continuar.csproj|solutionrelative:ejercicio i02 - desea continuar\\ejercicio 02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6BE92EBC-852E-453A-8361-6F70D5C5637E}|Ejercio_02_personas\\Ejercio_02_personas.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\ejercio_02_personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE92EBC-852E-453A-8361-6F70D5C5637E}|Ejercio_02_personas\\Ejercio_02_personas.csproj|solutionrelative:ejercio_02_personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AB6544A-3C1A-4CB9-B552-CD52B0BD5A05}|LibreriaEjercicio2\\LibreriaEjercicio2.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\libreriaejercicio2\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AB6544A-3C1A-4CB9-B552-CD52B0BD5A05}|LibreriaEjercicio2\\LibreriaEjercicio2.csproj|solutionrelative:libreriaejercicio2\\validador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DDB2059-6A6A-48E6-822B-881A9A4D0942}|LibreriaDePersonas\\LibreriaDePersonas.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\libreriadepersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDB2059-6A6A-48E6-822B-881A9A4D0942}|LibreriaDePersonas\\LibreriaDePersonas.csproj|solutionrelative:libreriadepersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio 02.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercicio I02 - Desea continuar\\Ejercicio 02.cs",
-              "RelativeDocumentMoniker": "Ejercicio I02 - Desea continuar\\Ejercicio 02.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercicio I02 - Desea continuar\\Ejercicio 02.cs",
-              "RelativeToolTip": "Ejercicio I02 - Desea continuar\\Ejercicio 02.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAwAAAAmAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercio_02_personas\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercio_02_personas\\Program.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercio_02_personas\\Program.cs",
+              "RelativeToolTip": "Ejercio_02_personas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T15:07:44.592Z",
+              "WhenOpened": "2024-04-23T12:47:39.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Validador.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaEjercicio2\\Validador.cs",
-              "RelativeDocumentMoniker": "LibreriaEjercicio2\\Validador.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaEjercicio2\\Validador.cs",
-              "RelativeToolTip": "LibreriaEjercicio2\\Validador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDePersonas\\Persona.cs",
+              "RelativeDocumentMoniker": "LibreriaDePersonas\\Persona.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDePersonas\\Persona.cs",
+              "RelativeToolTip": "LibreriaDePersonas\\Persona.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwC0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:55:52.315Z",
+              "WhenOpened": "2024-04-22T16:08:02.684Z",
               "EditorCaption": ""
             }
           ]

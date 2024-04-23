@@ -1,0 +1,12 @@
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.deps.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\bin\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfoInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.AssemblyInfo.cs
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.sourcelink.json
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\refint\LibreriaDePersonas.dll
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\LibreriaDePersonas.pdb
+C:\Users\Sergio\Desktop\ejercicios_UTN_programacion_II\LibreriaDePersonas\obj\Debug\net8.0\ref\LibreriaDePersonas.dll

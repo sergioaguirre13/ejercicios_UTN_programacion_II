@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejercicio5 Tirame-un-centro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+072ddf8ad9d3da53e224697b7d5ee7b59c88b321")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b617d329cc2b03d774b6de09a7957da26c62441")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejercicio5 Tirame-un-centro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejercicio5 Tirame-un-centro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
