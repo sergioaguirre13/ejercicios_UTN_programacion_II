@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BE92EBC-852E-453A-8361-6F70D5C5637E}|Ejercio_02_personas\\Ejercio_02_personas.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\ejercio_02_personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE92EBC-852E-453A-8361-6F70D5C5637E}|Ejercio_02_personas\\Ejercio_02_personas.csproj|solutionrelative:ejercio_02_personas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96D9F50B-EC6B-4560-A33C-0900F7399BA5}|LibreriaDeConductores\\LibreriaDeConductores.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\libreriadeconductores\\conductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D9F50B-EC6B-4560-A33C-0900F7399BA5}|LibreriaDeConductores\\LibreriaDeConductores.csproj|solutionrelative:libreriadeconductores\\conductores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DDB2059-6A6A-48E6-822B-881A9A4D0942}|LibreriaDePersonas\\LibreriaDePersonas.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\libreriadepersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDB2059-6A6A-48E6-822B-881A9A4D0942}|LibreriaDePersonas\\LibreriaDePersonas.csproj|solutionrelative:libreriadepersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74E08933-0395-45F7-9D30-473E6B7544AE}|Ejercicio - A01\\Ejercicio - A01.csproj|c:\\users\\sergio\\desktop\\ejercicios_utn_programacion_ii\\ejercicio - a01\\ejercicioa01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E08933-0395-45F7-9D30-473E6B7544AE}|Ejercicio - A01\\Ejercicio - A01.csproj|solutionrelative:ejercicio - a01\\ejercicioa01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercio_02_personas\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercio_02_personas\\Program.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercio_02_personas\\Program.cs",
-              "RelativeToolTip": "Ejercio_02_personas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "DocumentIndex": 1,
+              "Title": "EjercicioA01.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercicio - A01\\EjercicioA01.cs",
+              "RelativeDocumentMoniker": "Ejercicio - A01\\EjercicioA01.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\Ejercicio - A01\\EjercicioA01.cs",
+              "RelativeToolTip": "Ejercicio - A01\\EjercicioA01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T12:47:39.021Z",
+              "WhenOpened": "2024-04-23T13:42:27.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDePersonas\\Persona.cs",
-              "RelativeDocumentMoniker": "LibreriaDePersonas\\Persona.cs",
-              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDePersonas\\Persona.cs",
-              "RelativeToolTip": "LibreriaDePersonas\\Persona.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwC0AAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "Conductores.cs",
+              "DocumentMoniker": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDeConductores\\Conductores.cs",
+              "RelativeDocumentMoniker": "LibreriaDeConductores\\Conductores.cs",
+              "ToolTip": "C:\\Users\\Sergio\\Desktop\\ejercicios_UTN_programacion_II\\LibreriaDeConductores\\Conductores.cs",
+              "RelativeToolTip": "LibreriaDeConductores\\Conductores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:08:02.684Z",
+              "WhenOpened": "2024-04-23T13:41:57.67Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio - A01/1.0.0": {
+        "dependencies": {
+          "LibreriaDeConductores": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio - A01.dll": {}
+        }
+      },
+      "LibreriaDeConductores/1.0.0": {
+        "runtime": {
+          "LibreriaDeConductores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio - A01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaDeConductores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
