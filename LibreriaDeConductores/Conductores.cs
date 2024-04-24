@@ -2,33 +2,74 @@
 {
     public class Conductores
     {
-        string nombres { get; set; }
-        int[] kilometrosPorDia { get; set; }
+        public string Nombre { get; set; }
+        public int[] KilometrosPorDia { get; set; }
 
-        public Conductores(string Nombre, int[] kilometrosPorDia)
+        public Conductores(string nombre, int[] kilometrosPorDia)
         {
-            Nombre = nombres;
-            kilometrosPorDia = kilometrosPorDia;
+            Nombre = nombre;
+            KilometrosPorDia = kilometrosPorDia;
         }
 
-       public int SumaKilometrosSemanal()
+        public int CalcularTotalKilometros()
         {
-            int total = 0;
-
-            foreach (int kilometros in kilometrosPorDia)
+            int totalKilometros = 0;
+            foreach (int km in KilometrosPorDia)
             {
-                total += kilometros;
+                totalKilometros += km;
+            }
+            return totalKilometros;
+        }
+
+        public int KilometrosEnDia(int dia)
+        {
+            return KilometrosPorDia[dia - 1];
+        }
+
+        //**********************************************
+
+        public class EmpresaTransporte
+        {
+            private Conductores[] conductores;
+
+            public EmpresaTransporte(int cantidadConductores)
+            {
+                conductores = new Conductores[cantidadConductores];
             }
 
-            return total;
+            public void AgregarConductor(Conductores conductor, int indice)
+            {
+                conductores[indice] = conductor;
+            }
+
+            public Conductores ConductorConMasKilometrosEnLaSemana()
+            {
+                Conductores conductorMasKilometros = conductores[0];
+                foreach (Conductores conductor in conductores)
+                {
+                    if (conductor.CalcularTotalKilometros() > conductorMasKilometros.CalcularTotalKilometros())
+                    {
+                        conductorMasKilometros = conductor;
+                    }
+                }
+                return conductorMasKilometros;
+            }
+
+            public Conductores ConductorConMasKilometrosEnDia(int dia)
+            {
+                Conductores conductorMasKilometros = conductores[0];
+                foreach (Conductores conductor in conductores)
+                {
+                    if (conductor.KilometrosEnDia(dia) > conductorMasKilometros.KilometrosEnDia(dia))
+                    {
+                        conductorMasKilometros = conductor;
+                    }
+                }
+                return conductorMasKilometros;
+            }
         }
 
-        public int KilometrosPorDia(int dia)
-        {
-            return kilometrosPorDia[dia];
-        }
 
-         
 
 
 
