@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EJ3 Los primos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c483f881eb3c2ad2487130a611fc5fe457927c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EJ3 Los primos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EJ3 Los primos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

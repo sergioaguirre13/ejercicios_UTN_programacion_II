@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibreriaDeConductores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+024641fd494da4b3b48618dc2d8bf385ea22bf0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibreriaDeConductores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibreriaDeConductores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
