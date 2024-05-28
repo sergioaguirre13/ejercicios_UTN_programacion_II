@@ -16,3 +16,21 @@ C:\Users\Sergio PC\Desktop\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\D
 C:\Users\Sergio PC\Desktop\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\ref\HolaWindowsForms.dll
 C:\Users\Sergio PC\Desktop\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.HolaForm.resources
 C:\Users\Sergio PC\Desktop\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.SaludarForm.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\bin\Debug\net8.0-windows\HolaWindowsForms.exe
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\bin\Debug\net8.0-windows\HolaWindowsForms.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\bin\Debug\net8.0-windows\HolaWindowsForms.runtimeconfig.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\bin\Debug\net8.0-windows\HolaWindowsForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\bin\Debug\net8.0-windows\HolaWindowsForms.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.HolaForm.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.SaludarForm.resources
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.csproj.GenerateResource.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\refint\HolaWindowsForms.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\HolaWindowsForms.genruntimeconfig.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\HolaWindowsForms\obj\Debug\net8.0-windows\ref\HolaWindowsForms.dll

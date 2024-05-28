@@ -1,0 +1,12 @@
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\bin\Debug\net8.0\LibreriaDeClientes.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\bin\Debug\net8.0\LibreriaDeClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\bin\Debug\net8.0\LibreriaDeClientes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\refint\LibreriaDeClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\ref\LibreriaDeClientes.dll

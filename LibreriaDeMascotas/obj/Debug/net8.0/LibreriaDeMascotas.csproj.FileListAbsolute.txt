@@ -1,0 +1,12 @@
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\bin\Debug\net8.0\LibreriaDeMascotas.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\bin\Debug\net8.0\LibreriaDeMascotas.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\bin\Debug\net8.0\LibreriaDeMascotas.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\refint\LibreriaDeMascotas.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\LibreriaDeMascotas.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeMascotas\obj\Debug\net8.0\ref\LibreriaDeMascotas.dll

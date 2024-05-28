@@ -1,0 +1,15 @@
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\bin\Debug\net8.0\pruebaStringBuilder.exe
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\bin\Debug\net8.0\pruebaStringBuilder.deps.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\bin\Debug\net8.0\pruebaStringBuilder.runtimeconfig.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\bin\Debug\net8.0\pruebaStringBuilder.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\bin\Debug\net8.0\pruebaStringBuilder.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.AssemblyInfoInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.AssemblyInfo.cs
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.sourcelink.json
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\refint\pruebaStringBuilder.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\pruebaStringBuilder.genruntimeconfig.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\pruebaStringBuilder\obj\Debug\net8.0\ref\pruebaStringBuilder.dll

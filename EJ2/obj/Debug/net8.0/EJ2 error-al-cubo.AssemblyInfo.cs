@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EJ2 error-al-cubo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b27c17f9ea2d13b14cd2dd1fa5660704e94c27cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("EJ2 error-al-cubo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EJ2 error-al-cubo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
