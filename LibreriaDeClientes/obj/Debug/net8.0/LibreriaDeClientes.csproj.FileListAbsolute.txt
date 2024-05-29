@@ -10,3 +10,7 @@ C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaD
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\refint\LibreriaDeClientes.dll
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.pdb
 C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\ref\LibreriaDeClientes.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\bin\Debug\net8.0\LibreriaDeMascotas.dll
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\bin\Debug\net8.0\LibreriaDeMascotas.pdb
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\LibreriaDeClientes.csproj.AssemblyReference.cache
+C:\Users\PC1\OneDrive\Documentos\Sergio\ejercicios_UTN_programacion_II\LibreriaDeClientes\obj\Debug\net8.0\Libreria.9F185008.Up2Date

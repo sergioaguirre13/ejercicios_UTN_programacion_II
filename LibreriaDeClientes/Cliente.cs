@@ -12,16 +12,16 @@ namespace LibreriaDeClientes
         private string apellido;
         private string domicilio;
         private int telefono;
-        private List<string> mascotas = new List<string>();
+        private List<Mascota> listaMascotas; 
+       
 
-        public Cliente(string nombre, string apellido, string domicilio, int telefono, string nombreMascota)
+        public Cliente(string nombre, string apellido, string domicilio, int telefono)
         {
             this.nombre = nombre;
             this.apellido = apellido;
             this.domicilio = domicilio;
             this.telefono = telefono;
-            mascotas.Add(nombreMascota);
-
+            listaMascotas =  new List<Mascota>();
         }
 
         #region setters & getters
@@ -46,10 +46,7 @@ namespace LibreriaDeClientes
             this.telefono = telefono;
         }
 
-       public void AddMascota(string nombreMascota)
-        {
-            mascotas.Add(nombreMascota);
-        }
+      
 
 
 
@@ -73,23 +70,22 @@ namespace LibreriaDeClientes
             return this.telefono;
         }
 
+
+
+        #endregion
+
+        public void MascotaALista(Mascota mascota)
+        {
+            listaMascotas.Add(mascota);
+        }
+
         
 
-        #endregion   
-
-
-        public string MostrarLista()
+        public override string ToString()
         {
-            foreach (string item in mascotas)
-            {
-                return item;
-            }
+            return $"Cliente {nombre} {apellido} - Domicilio {domicilio} - telefono {telefono} - {string.Join(", ", listaMascotas )} ";
         }
 
-
-        public string ClienteToString()
-        {
-            return $"Cliente {nombre} {apellido} - Domicilio {domicilio} - telefono {telefono}";
-        }
+        
     }
 }

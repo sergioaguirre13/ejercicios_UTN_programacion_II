@@ -16,6 +16,9 @@
         }
       },
       "LibreriaDeClientes/1.0.0": {
+        "dependencies": {
+          "LibreriaDeMascotas": "1.0.0"
+        },
         "runtime": {
           "LibreriaDeClientes.dll": {}
         }

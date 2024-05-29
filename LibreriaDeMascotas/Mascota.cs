@@ -1,4 +1,6 @@
-﻿namespace LibreriaDeMascotas
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace LibreriaDeMascotas
 {
     public class Mascota
     {
@@ -64,5 +66,9 @@
 
         #endregion
 
+        public override string ToString()
+        {
+            return this.nombre;
+        }
     }
 }

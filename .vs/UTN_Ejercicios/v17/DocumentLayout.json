@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B287E565-4D5F-4074-9618-3DB873FFBAA3}|LibreriaDeClientes\\LibreriaDeClientes.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_utn_programacion_ii\\libreriadeclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B287E565-4D5F-4074-9618-3DB873FFBAA3}|LibreriaDeClientes\\LibreriaDeClientes.csproj|solutionrelative:libreriadeclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF0691DF-5FD0-4618-8D20-7C2FADAAA37F}|ConsolaVeterinaria\\ConsolaVeterinaria.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\consolaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0691DF-5FD0-4618-8D20-7C2FADAAA37F}|ConsolaVeterinaria\\ConsolaVeterinaria.csproj|solutionrelative:consolaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FA3D3F7-B25F-49D8-B762-00266620FD0F}|LibreriaDeMascotas\\LibreriaDeMascotas.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_utn_programacion_ii\\libreriademascotas\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FA3D3F7-B25F-49D8-B762-00266620FD0F}|LibreriaDeMascotas\\LibreriaDeMascotas.csproj|C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\libreriademascotas\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA3D3F7-B25F-49D8-B762-00266620FD0F}|LibreriaDeMascotas\\LibreriaDeMascotas.csproj|solutionrelative:libreriademascotas\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF0691DF-5FD0-4618-8D20-7C2FADAAA37F}|ConsolaVeterinaria\\ConsolaVeterinaria.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_utn_programacion_ii\\consolaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF0691DF-5FD0-4618-8D20-7C2FADAAA37F}|ConsolaVeterinaria\\ConsolaVeterinaria.csproj|solutionrelative:consolaveterinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B287E565-4D5F-4074-9618-3DB873FFBAA3}|LibreriaDeClientes\\LibreriaDeClientes.csproj|c:\\users\\pc1\\onedrive\\documentos\\sergio\\ejercicios_utn_programacion_ii\\libreriadeclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B287E565-4D5F-4074-9618-3DB873FFBAA3}|LibreriaDeClientes\\LibreriaDeClientes.csproj|solutionrelative:libreriadeclientes\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\ConsolaVeterinaria\\Program.cs",
               "RelativeDocumentMoniker": "ConsolaVeterinaria\\Program.cs",
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\ConsolaVeterinaria\\Program.cs",
               "RelativeToolTip": "ConsolaVeterinaria\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA4AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T14:58:39.125Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "LibreriaDeMascotas\\Mascota.cs",
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\LibreriaDeMascotas\\Mascota.cs",
               "RelativeToolTip": "LibreriaDeMascotas\\Mascota.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEAAAAASAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T14:33:01.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\LibreriaDeClientes\\Cliente.cs",
               "RelativeDocumentMoniker": "LibreriaDeClientes\\Cliente.cs",
               "ToolTip": "C:\\Users\\PC1\\OneDrive\\Documentos\\Sergio\\ejercicios_UTN_programacion_II\\LibreriaDeClientes\\Cliente.cs",
               "RelativeToolTip": "LibreriaDeClientes\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T14:32:24.911Z",
               "EditorCaption": ""
